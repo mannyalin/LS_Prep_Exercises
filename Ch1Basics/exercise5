@@ -1,0 +1,4 @@
+console.log('5' +10)
+
+Refactor to produce 15:
+console.log(Number('5') +10)

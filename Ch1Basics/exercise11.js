@@ -1,0 +1,1 @@
+parseInt('3.1415') // will result to 3 and stop there becasue next is not a number(.)

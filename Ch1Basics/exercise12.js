@@ -1,0 +1,1 @@
+'12' < '9' //Results to true because string will evaluate first character and '1' is considered less than '9'

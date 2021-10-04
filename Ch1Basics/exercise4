@@ -1,0 +1,6 @@
+console.log('5' + 10)
+
+This will log 510 on the console because evey + expression with
+a string operand will produce a string result. This means that the 
+10 will be coerced to a string type '10', and then concatenated
+to '5' to produce '510'
